@@ -1,5 +1,5 @@
 /* Tipos de Datos*/
-//Cambios en este comentario
+
 // 1. Cadenas
 
 const nombre = 'Maria';
